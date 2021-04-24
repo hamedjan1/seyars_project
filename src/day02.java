@@ -25,8 +25,16 @@ public class day02 {
 		
 		
 		
-		
-		
+		System.out.println("seyar lives in san diego ca");
+		System.out.println("seyar lives in san diego ca");
+		System.out.println("seyar lives in san diego ca");
+		System.out.println("seyar lives in san diego ca");
+		System.out.println("seyar lives in san diego ca");
+		System.out.println("seyar lives in san diego ca");
+		System.out.println("seyar lives in san diego ca");
+		System.out.println("seyar lives in san diego ca");
+		System.out.println("seyar lives in san diego ca");
+
 		
 		
 		
